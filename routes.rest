@@ -30,7 +30,7 @@ Content-Type: application/json
     "birthday": "11/25/1970"
 }
 
-### Update contact info (Jayson Id)
+### Update contact info (Margaret Id)
 PUT http://localhost:3000/contacts/65a2e4e048acf6d0d3e996a1 HTTP/1.1
 Content-Type: application/json
 
@@ -42,7 +42,7 @@ Content-Type: application/json
     "birthday": "05/10/2009"
 }
 
-### Delete contact info (Marco Polo)
+### Delete contact info (Luka Ebega)
 DELETE http://localhost:3000/contacts/65a2e4f148acf6d0d3e996a2 HTTP/1.1
 
 //Render
@@ -78,7 +78,7 @@ Content-Type: application/json
     "birthday": "11/23/1902"
 }
 
-### Update contact info (Terence)
+### Update contact info (Jane)
 PUT https://project1-part1.onrender.com/contacts/65a2e4b548acf6d0d3e996a0 HTTP/1.1
 Content-Type: application/json
 
