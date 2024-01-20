@@ -1,0 +1,19 @@
+{
+  "name": "cse341-web-services",
+  "version": "1.0.0",
+  "description": "This is my first Project in CSE 341. I will be saving Contacts Info.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KCMinchakpu/CSE341-Web-Services.git"
+  },
+  "author": "Kevin Cross Minchakpu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KCMinchakpu/CSE341-Web-Services/issues"
+  },
+  "homepage": "https://github.com/KCMinchakpu/CSE341-Web-Services#readme"
+}
