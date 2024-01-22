@@ -3,7 +3,7 @@
 GET http://localhost:3000/contacts HTTP/1.1
 
 ### Get single contact by Id (Esther)
-GET http://localhost:4518/contacts/65a2e43d48acf6d0d3e9969e HTTP/1.1
+GET http://localhost:3000/contacts/65a2e43d48acf6d0d3e9969e HTTP/1.1
 
 ### (Egoyibo)
 GET http://localhost:3000/contacts/65a2e48348acf6d0d3e9969f HTTP/1.1
